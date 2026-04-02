@@ -1,5 +1,3 @@
-# Página 11
+# 📄 11. Créditos
 ---
-[⬅️   Volver al Índice Principal](../README.md)
-[Página Anterior](pagina10.md) | [Índice](../README.md) | 
-
+[⬅️ Anterior: Guía didáctica](pagina10.md) | [Índice Principal](../README.md)

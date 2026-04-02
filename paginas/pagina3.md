@@ -1,5 +1,5 @@
-# Página 3
+# 📄 3. Protección de datos
 ---
-[⬅️   Volver al Índice Principal](../README.md)
-[Página Anterior](pagina2.md) | [Índice](../README.md) | [Siguiente Página](pagina4.md)
+[⬅️ Anterior](pagina2.md) | [🏠 Índice](../README.md) | [Siguiente: Producto final ➡️](pagina4.md)
 
+*(Escribe aquí el contenido sobre protección de datos)*

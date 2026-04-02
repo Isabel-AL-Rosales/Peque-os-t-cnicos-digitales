@@ -1,5 +1,5 @@
 # Página 4
 ---
-[⬅️ Volver al Índice Principal](../README.md)
-[Página Anterior](pagina0.md) | [Índice](../README.md) | [Siguiente Página](pagina2.md)
+[⬅️   Volver al Índice Principal](../README.md)
+[Página Anterior](pagina3.md) | [Índice](../README.md) | [Siguiente Página](pagina5.md)
 

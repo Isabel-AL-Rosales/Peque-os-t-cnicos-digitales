@@ -20,7 +20,7 @@ Durante todas las sesiones, con especial énfasis en las sesiones 2 y 3.
 
 🔗 [**Acceder a la autoevaluación en Google Forms**](https://docs.google.com/document/d/1Px8CzCNh75wXKYfxGzctuPaIHPepCR86YgLs5a45pOA/edit?usp=sharing)
 
-**O descargar versión impresa:** [PDF de autoevaluación](AQUÍ_VA_TU_ENLACE_DEL_PDF)
+**O descargar versión impresa:** [PDF de autoevaluación](Contenido de la autoevaluación.pdF)
 
 **¿Qué evalúa?**
 - Percepción del propio aprendizaje.

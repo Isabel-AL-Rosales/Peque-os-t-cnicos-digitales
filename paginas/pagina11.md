@@ -36,9 +36,12 @@ Este material se distribuye bajo una licencia **Creative Commons Atribución-NoC
 | Pictogramas | ARASAAC (Gobierno de Aragón) | CC BY-NC-SA |
 | Imagen portada | Pixabay | Licencia libre |
 
-### ⬇️ Descarga del archivo editable
+---
+### 📦 Descarga del Proyecto Completo
+Puedes descargar todos los materiales de este repositorio en un archivo comprimido (.zip) para usarlos sin conexión:
 
-🔗 [**Haz clic aquí para descargar el archivo .elp de eXeLearning**](AQUÍ_VA_EL_ENLACE_DE_DESCARGA)
+[📥 Descargar Proyecto Completo (ZIP)](https://github.com)
+
 
 
 ---

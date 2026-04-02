@@ -1,5 +1,7 @@
-# Página 7
+# 📄 7. Línea temporal
 ---
-[⬅️   Volver al Índice Principal](../README.md)
-[Página Anterior](pagina6.md) | [Índice](../README.md) | [Siguiente Página](pagina8.md)
+[⬅️ Anterior](pagina6.md) | [🏠 Índice](../README.md) | [Siguiente: Criterios evaluación ➡️](pagina8.md)
+
+
+*(Escribe aquí el cronograma o fases del proyecto)*
 

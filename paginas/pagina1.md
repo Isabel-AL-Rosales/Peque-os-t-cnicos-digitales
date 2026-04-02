@@ -6,7 +6,7 @@
 ![Logo del Proyecto](https://shields.io)
 ![Licencia](https://shields.io)
 
-## 🎓 Centro Educativo / Institución
+## 🎓 CEIP LOS ROSALES
 ### *Curso Escolar 2025 - 2026*
 
 ---

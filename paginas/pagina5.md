@@ -1,5 +1,6 @@
-# Página 5
+# 📄 5. Recursos para el alumnado
 ---
-[⬅️  Volver al Índice Principal](../README.md)
-[Página Anterior](pagina4.md) | [Índice](../README.md) | [Siguiente Página](pagina6.md)
+[⬅️ Anterior](pagina4.md) | [🏠 Índice](../README.md) | [Siguiente: Herramientas docente ➡️](pagina6.md)
 
+
+*(Escribe aquí los recursos para los alumnos)

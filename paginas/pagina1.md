@@ -1,4 +1,3 @@
-# Página 1
+# 📄 1. Portada
 ---
-[⬅️ Volver al Índice Principal](../README.md)
-[Página Anterior](pagina0.md) | [Índice](../README.md) | [Siguiente Página](pagina2.md)
+[Índice Principal](../README.md) | [Siguiente: Presentación ➡️](pagina2.md)

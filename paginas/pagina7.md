@@ -2,7 +2,7 @@
 
 ### Nuestro proyecto en 4 sesiones
 
-🔗 [**HAZ CLIC AQUÍ PARA VER LA LÍNEA TEMPORAL INTERACTIVA**](Ahttps://view.genially.com/69cd6e7e8f79350cdf1e0f4d)
+🔗 [**HAZ CLIC AQUÍ PARA VER LA LÍNEA TEMPORAL INTERACTIVA**](https://view.genially.com/69cd6e7e8f79350cdf1e0f4d)
 
 **Vista resumida:**
 

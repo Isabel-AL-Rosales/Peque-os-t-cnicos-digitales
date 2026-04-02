@@ -1,11 +1,17 @@
 # 📄 11. Créditos
----
-[⬅️ Anterior: Guía didáctica](pagina10.md) | [Índice Principal](../README.md)
-*(Escribe aquí la guía para aplicar el proyecto)*
+
+
 ## Autoría
 *   **Autor/a:** [Isabel Lobato López]
 *   **Año:** 2026
 *   **Proyecto:** [Pequeños técnicos digitales]
+
+### 📖 Descripción del proyecto
+
+**"Pequeños técnicos digitales: resolvemos problemas en el aula de Audición y Lenguaje"**
+
+Proyecto diseñado para alumnado de 1º y 2º de Educación Primaria con el objetivo de desarrollar la competencia digital y la resolución autónoma de problemas técnicos en el contexto de las sesiones de Audición y Lenguaje.
+  
 
 ## Licencia del Proyecto
 Este material se distribuye bajo una licencia **Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)**.
@@ -22,3 +28,18 @@ Este material se distribuye bajo una licencia **Creative Commons Atribución-NoC
 3.  **Compartir Igual (SA):** Si altera o crea a partir de este material, debe distribuir su contribución bajo la misma licencia que el original.
 
 [Ver el texto legal completo aquí](https://creativecommons.org)
+
+### 🖼️ Recursos utilizados
+
+| Recurso | Autoría | Licencia |
+|---------|---------|----------|
+| Pictogramas | ARASAAC (Gobierno de Aragón) | CC BY-NC-SA |
+| Imagen portada | Pixabay | Licencia libre |
+
+### ⬇️ Descarga del archivo editable
+
+🔗 [**Haz clic aquí para descargar el archivo .elp de eXeLearning**](AQUÍ_VA_EL_ENLACE_DE_DESCARGA)
+
+
+---
+[⬅️ Anterior: Guía didáctica](pagina10.md) | [Índice Principal](../README.md)

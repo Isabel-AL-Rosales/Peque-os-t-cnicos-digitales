@@ -3,9 +3,9 @@
 [⬅️ Anterior: Guía didáctica](pagina10.md) | [Índice Principal](../README.md)
 *(Escribe aquí la guía para aplicar el proyecto)*
 ## Autoría
-*   **Autor/a:** [Tu Nombre o Institución]
-*   **Año:** 2024
-*   **Proyecto:** [Nombre de tu Proyecto]
+*   **Autor/a:** [Isabel Lobato López]
+*   **Año:** 2026
+*   **Proyecto:** [Pequeños técnicos digitales]
 
 ## Licencia del Proyecto
 Este material se distribuye bajo una licencia **Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)**.

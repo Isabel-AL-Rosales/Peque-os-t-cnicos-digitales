@@ -22,7 +22,7 @@ La resolución autónoma de problemas técnicos básicos en dispositivos digital
 
 ### 🌍 Idioma
 
-Español, con apoyos visuales mediante **pictogramas de ARASAAC**.
+Castellano, con apoyos visuales mediante **pictogramas de ARASAAC**.
 
 ### 🎓 ¿Qué vamos a aprender?
 

@@ -1,5 +1,7 @@
-# Página 9
+# 📄 9. Instrumentos de evaluación
 ---
-[⬅️   Volver al Índice Principal](../README.md)
-[Página Anterior](pagina8.md) | [Índice](../README.md) | [Siguiente Página](pagina10.md)
+[⬅️ Anterior](pagina8.md) | [🏠 Índice](../README.md) | [Siguiente: Guía didáctica ➡️](pagina10.md)
+
+
+*(Escribe aquí las rúbricas, tests o escalas)*
 

@@ -1,5 +1,3 @@
-# Página 2
+# 📄 2. Presentación y descripción
 ---
-[⬅️   Volver al Índice Principal](../README.md)
-[Página Anterior](pagina1.md) | [Índice](../README.md) | [Siguiente Página](pagina3.md)
-
+[⬅️ Anterior](pagina1.md) | [Índice](../README.md) | [Siguiente: Protección de datos ➡️](pagina3.md)

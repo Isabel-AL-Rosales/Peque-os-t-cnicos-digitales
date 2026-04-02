@@ -1,5 +1,9 @@
-# Página 10
+# 📄 10. Guía didáctica
 ---
-[⬅️   Volver al Índice Principal](../README.md)
-[Página Anterior](pagina9.md) | [Índice](../README.md) | [Siguiente Página](pagina11.md)
+[⬅️ Anterior](pagina9.md) | [🏠 Índice](../README.md) | [Siguiente: Créditos ➡️](pagina11.md)
+
+
+
+*(Escribe aquí la guía para aplicar el proyecto)*
+
 

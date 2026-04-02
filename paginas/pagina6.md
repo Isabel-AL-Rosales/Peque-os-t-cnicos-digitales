@@ -1,5 +1,8 @@
-# Página 6
+# 📄 6. Herramientas para el docente
 ---
-[⬅️   Volver al Índice Principal](../README.md)
-[Página Anterior](pagina5.md) | [Índice](../README.md) | [Siguiente Página](pagina7.md)
+[⬅️ Anterior](pagina5.md) | [🏠 Índice](../README.md) | [Siguiente: Línea temporal ➡️](pagina7.md)
+
+
+
+*(Escribe aquí las herramientas para profesores)*
 

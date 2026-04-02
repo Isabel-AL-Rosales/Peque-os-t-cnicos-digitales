@@ -1,5 +1,8 @@
-# Página 8
+# 📄 8. Criterios de evaluación
 ---
-[⬅️   Volver al Índice Principal](../README.md)
-[Página Anterior](pagina7.md) | [Índice](../README.md) | [Siguiente Página](pagina9.md)
+[⬅️ Anterior](pagina7.md) | [🏠 Índice](../README.md) | [Siguiente: Instrumentos evaluación ➡️](pagina9.md)
+
+
+*(Escribe aquí los criterios de calificación)*
+
 

@@ -2,7 +2,7 @@
 
 ## Resolvemos problemas en el aula de Audición y Lenguaje
 
-![Niños con tablet](https://cdn.pixabay.com/photo/xxxx)  
+![Niños con tablet](portada.jpg)  
 *(Imagen de Pixabay - licencia libre)*
 
 **¡Bienvenidos y bienvenidas, pequeños técnicos!**

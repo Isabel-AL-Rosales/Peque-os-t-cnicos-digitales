@@ -25,33 +25,6 @@ En este proyecto vamos a aprender a resolver los problemas que pueden surgir cua
 | **Nivel** | 1º y 2º de Primaria (6-8 años) |
 | **Materias** | Audición y Lenguaje, Competencia Digital, Valores Sociales |
 
----
-
-**¡Comencemos la aventura!** 🚀
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div align="center">
-
-# 📘 PORTADA: PROYECTO PASAPORTE DIGITAL
----
-
-![Logo del Proyecto](https://shields.io)
-![Licencia](https://shields.io)
-
-## 🎓 CEIP LOS ROSALES
-### *Curso Escolar 2025 - 2026*
 
 ---
 
@@ -59,10 +32,9 @@ En este proyecto vamos a aprender a resolver los problemas que pueden surgir cua
 **Materia:** [Audición y lenguaje]  
 **Etapa:** [Primer Ciclo de Primaria]
 
-</div>
+---
 
-## 📌 Introducción rápida
-Bienvenido al repositorio oficial del **Pasaporte Digital**. Este proyecto está diseñado para organizar y evaluar las competencias digitales del alumnado de forma lúdica y estructurada.
+**¡Comencemos la aventura!** 🚀
 
 ---
 ### 🧭 Navegación Inicial

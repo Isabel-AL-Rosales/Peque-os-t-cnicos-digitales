@@ -28,9 +28,9 @@ En este proyecto vamos a aprender a resolver los problemas que pueden surgir cua
 
 ---
 
-**Autor:** [Isabel Lobato López]  
-**Materia:** [Audición y lenguaje]  
-**Etapa:** [Primer Ciclo de Primaria]
+**Autor:** Isabel Lobato López  
+**Materia:** Audición y lenguaje  
+**Etapa:** Primer Ciclo de Primaria
 
 ---
 

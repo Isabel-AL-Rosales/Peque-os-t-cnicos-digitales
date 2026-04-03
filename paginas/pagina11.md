@@ -40,7 +40,7 @@ Este material se distribuye bajo una licencia **Creative Commons Atribución-NoC
 ### 📦 Descarga del Proyecto Completo
 Puedes descargar todos los materiales de este repositorio en un archivo comprimido (.zip) para usarlos sin conexión:
 
-[📥 Descargar Proyecto Completo (ZIP)](Peque-os-t-digitales-main-zip)
+[📥 Descargar Proyecto Completo (ZIP)](https://drive.google.com/file/d/1gRbTKYhMBsd07mtlPC2xLmg3hYQ0YHIv/view?usp=sharing)
 
 
 
